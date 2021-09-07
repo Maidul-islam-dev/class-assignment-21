@@ -1,0 +1,23 @@
+img{
+    max-width: 100%;
+}
+
+/* slider css start */
+ .slider-part .carousel-caption {
+    top: 40%;
+}
+
+/* slider css end */
+
+/* contact css start */
+.contact{
+    background: #f6f6f6;
+}
+
+/* contact css End */
+
+/* blog css start */
+.blog-section{
+    background: #f6f6f6;
+}
+/* blog css End */
